@@ -4,7 +4,19 @@
   font-family: Arial, Helvetica, sans-serif;
 }   */
 
-.dropdown-container {
+
+.dropdown-menu {
+  /* position: relative; border: none; */
+ 
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+  }
+
+  
+  .dropdown-container {
  /* width: 100vw;
   height: 100vh;
   display: flex;
@@ -13,17 +25,6 @@
 
   position: relative;
     display: inline-block;
-}
-
-.dropdown-menu {
- /* position: relative; border: none; */
-
- background-color: #04AA6D;
- color: white;
- padding: 16px;
- font-size: 16px;
- border: none;
-
 }
 
 /*  button{

@@ -12,7 +12,7 @@
   color: white;
   padding: 16px;
   font-size: 16px;
-  border: none;
+  border: none; text-align: center;
   }
 
 
@@ -24,7 +24,10 @@
   align-items: center; */
 
   position: relative;
-    display: inline-block;
+    display: inline-block; text-align: center;  
+    left: 50%;
+    transform: translateX(-50%);
+    
 }
 
 /*  button{
